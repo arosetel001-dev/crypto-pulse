@@ -1,0 +1,7 @@
+{
+  "name": "CryptoPulse - Web3 Crypto Forum & Sentiment Terminal",
+  "description": "A global crypto market social forum with real-time peer-to-peer global chat room, Google, Facebook, Twitter/X, and Telegram authentication, AI sentiment analysis, and volatility alerts.",
+  "requestFramePermissions": ["notifications"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
